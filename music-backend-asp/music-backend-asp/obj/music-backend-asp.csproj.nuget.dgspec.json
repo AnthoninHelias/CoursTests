@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\valen\\source\\repos\\music-backend-asp\\music-backend-asp\\music-backend-asp.csproj": {}
+    "C:\\Users\\helia\\Desktop\\CoursTests\\music-backend-asp\\music-backend-asp\\music-backend-asp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\valen\\source\\repos\\music-backend-asp\\music-backend-asp\\music-backend-asp.csproj": {
+    "C:\\Users\\helia\\Desktop\\CoursTests\\music-backend-asp\\music-backend-asp\\music-backend-asp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\valen\\source\\repos\\music-backend-asp\\music-backend-asp\\music-backend-asp.csproj",
+        "projectUniqueName": "C:\\Users\\helia\\Desktop\\CoursTests\\music-backend-asp\\music-backend-asp\\music-backend-asp.csproj",
         "projectName": "music-backend-asp",
-        "projectPath": "C:\\Users\\valen\\source\\repos\\music-backend-asp\\music-backend-asp\\music-backend-asp.csproj",
-        "packagesPath": "C:\\Users\\valen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\valen\\source\\repos\\music-backend-asp\\music-backend-asp\\obj\\",
+        "projectPath": "C:\\Users\\helia\\Desktop\\CoursTests\\music-backend-asp\\music-backend-asp\\music-backend-asp.csproj",
+        "packagesPath": "C:\\Users\\helia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\helia\\Desktop\\CoursTests\\music-backend-asp\\music-backend-asp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\valen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\helia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -86,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
