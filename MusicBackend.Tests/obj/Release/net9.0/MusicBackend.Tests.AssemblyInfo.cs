@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("music-backend-asp")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("MusicBackend.Tests")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3519fdd69cd5a7fbb532fe51615c2f00f25b6e74")]
-[assembly: System.Reflection.AssemblyProductAttribute("music-backend-asp")]
-[assembly: System.Reflection.AssemblyTitleAttribute("music-backend-asp")]
+[assembly: System.Reflection.AssemblyProductAttribute("MusicBackend.Tests")]
+[assembly: System.Reflection.AssemblyTitleAttribute("MusicBackend.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.
